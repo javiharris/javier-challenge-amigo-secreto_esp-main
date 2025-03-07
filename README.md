@@ -3,7 +3,7 @@ desafío curso allura latam one
 
 Descripción del Juego "Amigo Secreto"
 
-Este es un juego sencillo y divertido para sortear a un "Amigo Secreto" entre un grupo de participantes. El funcionamiento es el siguiente:
+Este es un juego sencillo para sortear a un "Amigo Secreto" entre un grupo de participantes. El funcionamiento es el siguiente:
 
 Añadir Participantes:
 
