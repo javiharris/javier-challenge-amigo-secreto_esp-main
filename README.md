@@ -10,6 +10,7 @@ Añadir Participantes:
 Introduce el nombre de cada participante en el campo de texto designado.
 Haz clic en el botón "Añadir" para agregar el nombre a la lista de participantes.
 Repite este proceso para todos los participantes del juego.
+
 Realizar el Sorteo:
 
 Una vez que hayas añadido a todos los participantes, haz clic en el botón "Sortear Amigo".
